@@ -22,3 +22,7 @@ nav ul li{
     display: inline;
     padding: 0.9vw;
 }
+
+section{
+    margin: 5vw 1.5vw;
+}
